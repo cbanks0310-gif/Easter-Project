@@ -1,4 +1,4 @@
-// Your name
+// Christian Banks
 // This program will calculate the date easter falls on given a year after 1583.
 import java.util.*;
 
