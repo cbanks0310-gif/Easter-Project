@@ -35,7 +35,7 @@ public class easter{
         System.out.println("n = "+n);
         int p = (h+r-7*m+114)%31;
         System.out.println("p = "+p);
-        
+        System.out.println("Easter falls on:" + n + "/" + (p+1)+"/" + y)
         
         scanner.close();
     }
